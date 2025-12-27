@@ -468,19 +468,3 @@ db.users.find().explain("executionStats")
 
 **Why we use it:**
 Analyze query performance.
-
----
-
-## 🎯 Final Teaching Line (Say This to Students)
-
-> “Every MongoDB backend API you write is built on these same commands.
-> If you understand this, **Node.js + Mongoose becomes easy**.”
-
-If you want, I can now:
-
-* Convert this into **PDF notes**
-* Add **interview one-liners**
-* Map each command to **Mongoose code**
-* Create **practice questions + answers**
-
-Just say 👍
